@@ -9,8 +9,8 @@ spec:
     namespace: argocdappdemo
     server: 'https://kubernetes.default.svc'
   source:
-    path: 0-Demo_Files/Nginx_Deployment
-    repoURL: 'https://github.com/hello2ashu/argocd-training.git'
+    path: argocd-training-udemy-ashish_repo/0-Demo_Files/Nginx_Deployment
+    repoURL: 'https://github.com/hello2ashu/My-repo.git'
     targetRevision: HEAD
   sources: []
   project: default

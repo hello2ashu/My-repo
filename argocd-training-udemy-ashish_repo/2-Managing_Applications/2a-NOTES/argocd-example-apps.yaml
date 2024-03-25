@@ -6,6 +6,6 @@ metadata:
   labels:
     argocd.argoproj.io/secret-type: repository
 stringData:
-  url: https://github.com/hello2ashu/argocd-example-apps 
+  url: https://github.com/hello2ashu/My-repo
   password: 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
 #  username: hello2ashu

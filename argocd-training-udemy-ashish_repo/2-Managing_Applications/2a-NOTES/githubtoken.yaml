@@ -6,6 +6,6 @@ metadata:
   labels:
     argocd.argoproj.io/secret-type: repository
 stringData:
-  url: https://github.com/hello2ashu/argocd-training 
-  password: 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 
+  url: https://github.com/hello2ashu/My-repo
+  password: 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
 #  username: hello2ashu
