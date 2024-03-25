@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mastering-argo-rollouts-progressive-delivery-in-kubernetes
+  namespace: argocd
+  labels:
+    argocd.argoproj.io/secret-type: repository
+stringData:
+  url: https://github.com/hello2ashu/Mastering-Argo-Rollouts-Progressive-Delivery-in-Kubernetes
+  password: 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 
+#  username: hello2ashu
