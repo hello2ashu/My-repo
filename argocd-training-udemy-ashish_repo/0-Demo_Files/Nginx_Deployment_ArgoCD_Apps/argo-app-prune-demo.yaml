@@ -11,7 +11,7 @@ spec:
   source:
     path: argocd-training-udemy-ashish_repo/0-Demo_Files/Nginx_Deployment_Prune
     repoURL: 'https://github.com/hello2ashu/My-repo.git'
-    targetRevision: HEAD
+    targetRevision: test1
   sources: []
   project: default
   syncPolicy:
