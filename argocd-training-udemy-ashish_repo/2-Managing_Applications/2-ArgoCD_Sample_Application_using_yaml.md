@@ -23,4 +23,5 @@ This command creates the application as defined in the YAML file in ArgoCD, whic
 
 ```bash
 kubectl delete -f 0-Demo_Files/Nginx_Deployment_ArgoCD_Apps/argo-app.yaml
+
 ```
