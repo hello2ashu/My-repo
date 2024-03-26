@@ -19,7 +19,7 @@ This guide provides sample files and commands to demonstrate the `refresh` and `
 ## Steps
 
 ### 1. Define a Kubernetes Application
-Create an `Application` resource in Argo CD. This YAML file defines the application, its source repository, and the sync policy, including the prune optison.
+Create an `Application` resource in Argo CD. This YAML file defines the application, its source repository, and the sync policy, including the prune options.
 
 - [0-Demo_Files/Nginx_Deployment_ArgoCD_Apps/argo-app-prune-demo.yaml](https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course/blob/main/0-Demo_Files/Nginx_Deployment_ArgoCD_Apps/argo-app-prune-demo.yaml)
 
