@@ -9,8 +9,8 @@ spec:
     namespace: argocdappdemo  
     server: 'https://kubernetes.default.svc'
   source:
-    path: 0-Demo_Files/With_Schema_Error
-    repoURL: 'https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course.git'
+    path: argocd-training-udemy-ashish_repo/0-Demo_Files/With_Schema_Error
+    repoURL: 'https://github.com/hello2ashu/My-repo.git'
     targetRevision: HEAD
   sources: []
   project: default

@@ -10,7 +10,3 @@ minikube start --driver=vmware
 
 # SET VMAWARE AS DEFAULT DRIVER
 minikube config set driver vmware
-
-# Minikube dashbord ingress
-minikube dashboard
-kubectl apply -f dashboard.yaml
