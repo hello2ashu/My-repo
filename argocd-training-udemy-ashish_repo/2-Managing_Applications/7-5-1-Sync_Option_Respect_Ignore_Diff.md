@@ -26,7 +26,7 @@ Deploy this application to your Argo CD environment using `kubectl`.
 
 **Command:**
 ```bash
-kubectl apply -f 0-Demo_Files/Ignore_Diff_Apps/argo-app-sync-Ignorediff.yaml
+kubectl apply -f argocd-training-udemy-ashish_repo/0-Demo_Files/Ignore_Diff_Apps/argo-app-sync-Ignorediff.yaml
 ```
 
 

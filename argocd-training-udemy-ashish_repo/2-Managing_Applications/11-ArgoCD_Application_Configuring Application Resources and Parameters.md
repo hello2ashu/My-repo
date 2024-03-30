@@ -30,7 +30,7 @@ Deploy this application to your Argo CD environment using `kubectl`.
 
 **Command:**
 ```bash
-kubectl apply -f 0-Demo_Files/Params_Demo_Apps/argo-app-param-demo.yaml
+kubectl apply -f argocd-training-udemy-ashish_repo/0-Demo_Files/Params_Demo_Apps/argo-app-param-demo.yaml
 ```
 
 

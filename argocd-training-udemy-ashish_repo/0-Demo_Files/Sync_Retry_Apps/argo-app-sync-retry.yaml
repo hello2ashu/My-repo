@@ -9,7 +9,7 @@ spec:
     namespace: argocdappdemo-retry  
     server: 'https://kubernetes.default.svc'
   source:
-    path: 0-Demo_Files/Sync_Retry
+    path: argocd-training-udemy-ashish_repo/0-Demo_Files/Sync_Retry
     repoURL: 'https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course.git'
     targetRevision: HEAD
   sources: []

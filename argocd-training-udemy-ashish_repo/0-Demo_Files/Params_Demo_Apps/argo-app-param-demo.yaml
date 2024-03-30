@@ -9,7 +9,7 @@ spec:
     namespace: argocdapp-param-demo  
     server: 'https://kubernetes.default.svc'
   source:
-    path: 0-Demo_Files/Params_Demo
+    path: argocd-training-udemy-ashish_repo/0-Demo_Files/Params_Demo
     repoURL: 'https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course.git'
     targetRevision: HEAD
   sources: []

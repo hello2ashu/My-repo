@@ -19,7 +19,7 @@ Deploy this application to your Argo CD environment using `kubectl`.
 
 **Command:**
 ```bash
-kubectl apply -f 0-Demo_Files/Sync_Retry_Apps/argo-app-sync-retry.yaml
+kubectl apply -f argocd-training-udemy-ashish_repo/0-Demo_Files/Sync_Retry_Apps/argo-app-sync-retry.yaml
 ```
 
 

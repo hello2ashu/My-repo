@@ -19,6 +19,6 @@ Apply this configuration to your project in Argo CD.
 With this sync window in place, Argo CD will only synchronize applications within `myproject` during the specified timeframe. Any sync requests outside this window will be queued and executed once the window opens.
 
 ```bash
-kubectl apply -f 0-Demo_Files/Project_Intro/sync-window.yaml -n argocd
+kubectl apply -f argocd-training-udemy-ashish_repo/0-Demo_Files/Project_Intro/sync-window.yaml -n argocd
 
 ```

@@ -31,7 +31,7 @@ This defines the Argo CD application that points to the repository containing yo
 3. **Create Argo CD Application**:
    - Apply the Argo CD Application manifest:
      ```bash
-     kubectl apply -f 0-Demo_Files/Nginx_Deployment_ArgoCD_Apps/argo-app.yaml
+     kubectl apply -f argocd-training-udemy-ashish_repo/0-Demo_Files/Nginx_Deployment_ArgoCD_Apps/argo-app.yaml
      ```
 
 4. **Simulate a Manual Change in the Cluster**:

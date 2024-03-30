@@ -62,7 +62,7 @@ Updated Project Definition (`project_quota.yaml`):
 
 Apply the updated configuration:
 ```bash
-kubectl apply -f 0-Demo_Files/Project_Intro/project_quota.yaml
+kubectl apply -f argocd-training-udemy-ashish_repo/0-Demo_Files/Project_Intro/project_quota.yaml
 ```
 
 Project path

@@ -9,7 +9,7 @@ spec:
     namespace: argocdappdemo-ignorediff  
     server: 'https://kubernetes.default.svc'
   source:
-    path: 0-Demo_Files/Ignore_Diff
+    path: argocd-training-udemy-ashish_repo/0-Demo_Files/Ignore_Diff
     repoURL: 'https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course.git'
     targetRevision: HEAD
   ignoreDifferences:

@@ -22,7 +22,7 @@ Create a YAML file that defines your ArgoCD application. Here's an example YAML 
 Once the YAML file is ready, apply it to your cluster with the following command:
 
 ```bash
-kubectl apply -f 0-Demo_Files/Sample_Deployment_Service_ArgoCD_Apps/application.yaml
+kubectl apply -f argocd-training-udemy-ashish_repo/0-Demo_Files/Sample_Deployment_Service_ArgoCD_Apps/application.yaml
 ```
 
 ## login to ArgoCD CLI

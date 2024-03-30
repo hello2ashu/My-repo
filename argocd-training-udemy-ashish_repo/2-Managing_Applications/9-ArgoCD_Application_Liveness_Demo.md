@@ -22,7 +22,7 @@
 - Apply with `liveness-demo-argocd-apps.yaml`.
 
  ```bash
-kubectl apply -f 0-Demo_Files/Liveness_Deployment_ArgoCD_Apps/liveness-demo-argocd-apps.yaml
+kubectl apply -f argocd-training-udemy-ashish_repo/0-Demo_Files/Liveness_Deployment_ArgoCD_Apps/liveness-demo-argocd-apps.yaml
 
 argocd app get livenesstestapp
 

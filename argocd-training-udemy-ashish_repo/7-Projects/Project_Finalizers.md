@@ -16,7 +16,7 @@ This is a simple Kubernetes deployment manifest for an argocd project:
 Create the project in Argo CD:
 
 ```bash
-kubectl apply -f 0-Demo_Files/Project_Intro/project_with_finalizer.yaml -n argocd
+kubectl apply -f argocd-training-udemy-ashish_repo/0-Demo_Files/Project_Intro/project_with_finalizer.yaml -n argocd
 ```
 
 ## Step 3: Attempt to Delete the Project
