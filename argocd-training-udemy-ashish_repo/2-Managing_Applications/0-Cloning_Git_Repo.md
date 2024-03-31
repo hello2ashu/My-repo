@@ -5,7 +5,7 @@ This document provides instructions for various Git operations on the ArgoCD dem
 ## Cloning the Repository
 
 ```bash
-git clone https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course.git
+git clone https://github.com/hello2ashu/My-repo.git
 ```
 
 ## Fetching Changes
